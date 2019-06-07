@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HuaRongDao</string>
+    <string name="music1">RAM WIRE - 僕らの手には何もないけど、</string>
+    <string name="music2">DAOKO 米津玄師 - 打上花火</string>
+    <string name="music3">ラックライフ - 僕と月の話</string>
+    <string name="music4">藤澤慶昌 - シンシャ</string>
+    <string name="score">score</string>
+</resources>
